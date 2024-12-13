@@ -1,0 +1,31 @@
+{
+  "attributes": [
+      {
+          "value": "g(re:)en",
+          "trait_type": "background"
+      },
+      {
+          "value": "normal ",
+          "trait_type": "eyes"
+      },
+      {
+          "value": "long_brown",
+          "trait_type": "hair"
+      },
+      {
+          "value": "moustache",
+          "trait_type": "mouth"
+      },
+      {
+          "value": "zip up_gray",
+          "trait_type": "top"
+      },
+      {
+          "value": "2 ",
+          "trait_type": "type"
+      }
+  ],
+  "description": "nostalgia re:loaded. \n18x18 re:gens, bringing back the memories we lost.  it’s time to re:set how we feel about art.   \n",
+  "image": "https://assets.bueno.art/images/592b78af-b932-4979-bd7f-79943ab5d084/default/4764?s=d693d4403e5dfd135ca7034c79318c90",
+  "name": "INKER"
+}
