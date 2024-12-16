@@ -1,0 +1,11 @@
+{
+    "name": "inker",
+    "attributes": [
+        {
+            "trait_type": "tokenID",
+            "value": "1"
+        }
+    ],
+    "description": "inker nft image",
+    "image": "https://github.com/plantemeat/inker/blob/main/INker.jpg"
+}
